@@ -1,5 +1,3 @@
-# Fraud_detection
-
 # Fraud Transaction Detection (6.36M rows)
 
 A production‑ready ML pipeline to detect fraudulent financial transactions using Python and scikit‑learn.
